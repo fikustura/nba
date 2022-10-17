@@ -12,8 +12,8 @@ Odnosi se na projektiranje i obuhvaća sljedeće:
 Odnosi se na realizaciju i upite. Realizacija i upiti provedeni su korištenjem interne aplikacije koja sadrži sučelje za **_MySQL_**. Na njoj studenti imaju svoju osobnu **_MySQL_** bazu i sva prava **stvaranja** i **ažuriranja** tablica u njoj. Obuhvaćeno je sljedeće:
 - **kreiranje** i **punjenje** tablica s dovoljno redaka
 - stvaranje točno četiriju smislenih **upita** koji zadovoljavaju uvjete na broj korištenih tablica te neki od upita moraju biti **grupirajući**, odnosno **ugniježđeni**
-- opis što svaki upit vraća, tj. što predstavlja tablica koju upit računa
-- opis kako upit radi, tj. jedan mogući opis procesa na koji se može izračunati rezultat upita (izlazna tablica)
+- **opis što svaki upit vraća**, tj. što predstavlja tablica koju upit računa
+- **opis kako upit radi**, tj. jedan mogući opis procesa na koji se može izračunati rezultat upita (izlazna tablica)
 
 Za potrebe zadaće u odgovarajućoj _pdf_ datoteci pohranjeni su samo upiti uz opis što vraćaju i kako rade, bez naredbi za kreiranje i punjenje tablica.
 <hr />
