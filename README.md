@@ -14,5 +14,7 @@ Odnosi se na realizaciju i upite. Realizacija i upiti provedeni su korištenjem 
 - stvaranje točno četiriju smislenih **upita** koji zadovoljavaju uvjete na broj korištenih tablica te neki od upita moraju biti **grupirajući**, odnosno **ugniježđeni**
 - opis što svaki upit vraća, tj. što predstavlja tablica koju upit računa
 - opis kako upit radi, tj. jedan mogući opis procesa na koji se može izračunati rezultat upita (izlazna tablica)
+
+Za potrebe zadaće u odgovarajućoj _pdf_ datoteci pohranjeni su samo upiti uz opis što vraćaju i kako rade, bez naredbi za kreiranje i punjenje tablica.
 <hr />
 Ovaj projekt nastao je tijekom proljeća 2020.
